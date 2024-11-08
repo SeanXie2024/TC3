@@ -9,6 +9,8 @@
 **/_ModuleInstall
 *.tmc
 *.tpy
+
+# jon adds
 *.~u
 *.bak
 *.tmcRefac
